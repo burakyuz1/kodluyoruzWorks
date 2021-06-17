@@ -1,0 +1,20 @@
+#navbar{
+    display: flex;
+    flex-direction: column;
+}
+
+.items{
+    flex-direction: column;
+}
+.item{
+    width: 100%;
+}
+
+
+
+#courses .courses .course{
+    display: flex;
+   
+    flex-direction: column;
+
+}

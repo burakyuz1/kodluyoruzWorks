@@ -1,0 +1,60 @@
+/*COLORS*/
+.dark-blue{
+    background-color: #2D3848
+}
+.light-blue{
+    background-color: #2AA3CC;
+}
+
+/*SIZES*/
+.small-size{
+    font-size: 1.25rem;
+}
+.medium-size{
+    font-size: 1.50rem;
+}
+.big-size{
+    font-size: 1.75rem;
+}
+
+.text-center{
+    text-align: center;
+}
+
+
+/*BUTTONS*/
+
+.btn{
+
+    margin-top: 0.7rem;
+    padding: 0.8rem 2rem;
+    border-radius: 10px;
+    letter-spacing: 2px;  
+    
+}
+
+.btn-homeButton{
+    color: white;
+    background: #2AA3CC;
+    border: 0.5px solid #2AA3CC;
+}
+
+.btn-homeButton:hover{
+    color: #2AA3CC;
+    background: white;
+    border: 0.5px solid #2AA3CC;
+    
+}
+
+.btn-sendButton{
+    width: 100%;    
+}
+
+.form-control{
+   padding: 0.55rem;
+    width: 100%;
+    border-radius: 5px;
+    font-size: 1rem;
+    resize: none;
+ 
+}
